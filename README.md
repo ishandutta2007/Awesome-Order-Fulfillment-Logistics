@@ -31,77 +31,32 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
 
 
+## Sector Overview & Market Dynamics
+
+The global order fulfillment and e-commerce logistics market is estimated at approximately **$580B – $710B** (with the broader global logistics ecosystem surpassing **$4.1T – $4.3T**). The sector exhibits a bifurcated market structure: it is **moderately concentrated at the top tier** dominated by global integrated logistics conglomerates and massive tech giants, yet remains **structurally fragmented across regional, mid-market, and specialized 3PLs/SaaS providers** where no single winner takes all.
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce Fulfilment Cloud](https://www.salesforce.com/)**  
-
-  Enterprise order fulfillment platform within Salesforce for orchestrating orders, inventory, and delivery across distributed fulfillment networks.
-
-
-
-- **[ShipBob](https://www.shipbob.com/)**  
-
-  Third-party logistics (3PL) platform with distributed fulfillment centers, inventory management, and shipping automation for e-commerce.
-
-
-
-- **[Deliverr](https://www.deliverr.com/)**  
-
-  Fulfillment and logistics platform (now part of Shopify) with fast shipping programs and inventory distribution.
-
-
-
-- **[Flexport](https://www.flexport.com/)**  
-
-  Digital freight forwarding and supply chain platform with customs, fulfillment, and logistics visibility.
-
-
-
-- **[ShipStation](https://www.shipstation.com/)**  
-
-  Shipping and fulfillment software connecting e-commerce platforms to carriers with label printing, tracking, and automation.
-
-
-
-- **[Radial](https://www.radial.com/)**  
-
-  Omnichannel commerce fulfillment and logistics provider with order management and warehouse operations.
-
-
-
-- **[Quiet Platforms](https://quietplatforms.com/)**  
-
-  Shared logistics network providing fulfillment and delivery services for retailers and brands.
-
-
-
-- **[ShipHero](https://shiphero.com/)**  
-
-  Cloud-based warehouse management and fulfillment platform with inventory, picking, packing, and shipping.
-
-
-
-- **[Deposco](https://www.deposco.com/)**  
-
-  Cloud-based order management and warehouse execution platform for omnichannel fulfillment.
-
-
-
-- **[Manhattan Associates](https://www.manh.com/)**  
-
-  Enterprise supply chain commerce platform with warehouse management, order management, and transportation.
+| Platform | Company Valuation / Revenue | Starting Pricing Tier | Free Tier Limit / Free Trial Limit | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Fulfilment Cloud](https://www.salesforce.com/)** | ~$280B+ Market Cap / $34.8B+ Annual Revenue | ~$0.15 – $0.50 per order (billed in pre-purchased blocks of 1,000 Order Summaries) or ~1% GMV | No self-service free trial; interactive guided demo tours and proof-of-concept sandboxes available via enterprise sales | Enterprise order fulfillment platform within Salesforce for orchestrating orders, inventory, and delivery across distributed fulfillment networks. |
+| **[Flexport](https://www.flexport.com/)** | ~$8B Valuation / ~$2B+ Revenue | $5,000/month minimum fulfillment/storage spend (custom freight & per-item fulfillment quotes) | No free software trial; promotional trial periods (e.g. Flexport+ membership trials) offered periodically without free shipping/postage | Digital freight forwarding and supply chain platform with customs, fulfillment, and logistics visibility. |
+| **[ShipStation](https://www.shipstation.com/)** | ~$6.6B Valuation (Parent: Auctane / Thoma Bravo) / $230M+ Revenue | $14.99/month (Starter plan, up to 50 shipments/month) | 30-day free trial (up to 30 days full platform access with no carrier discounts excluded; requires user carrier funds or trial label allocation) | Shipping and fulfillment software connecting e-commerce platforms to carriers with label printing, tracking, and automation. |
+| **[Manhattan Associates](https://www.manh.com/)** | ~$13B – $16B Market Cap / $1.0B+ Annual Revenue | ~$150 – $500/user/month (annual enterprise contracts typically starting at $30,000+/year + implementation) | No free trial; live customized product demonstrations and guided feature tours available via sales | Enterprise supply chain commerce platform with warehouse management, order management, and transportation. |
+| **[Deliverr](https://www.deliverr.com/)** | ~$2.1B Acquisition Valuation (Shopify / Flexport) | ~$3.99 – $4.15 per unit fulfillment (all-in pick, pack, and standard delivery for lightweight items < 1 lb) | No free trial; self-service SKU cost calculator available with no monthly software subscription fee | Fulfillment and logistics platform (acquired by Shopify, now integrated with Flexport) with fast shipping programs and inventory distribution. |
+| **[ShipBob](https://www.shipbob.com/)** | ~$1.1B – $4.0B Valuation / $97M+ ARR ($1B+ GMV network) | $275/month minimum fulfillment spend; storage from $5/bin/mo, $10/shelf/mo, $40/pallet/mo; picking includes first 4 items free | No free trial; free self-service onboarding available for brands shipping under 400 orders/month (operational fulfillment fees apply) | Third-party logistics (3PL) platform with distributed fulfillment centers, inventory management, and shipping automation for e-commerce. |
+| **[Radial](https://www.radial.com/)** | ~$820M Valuation (bpost group) / ~$1B Annual Revenue | Custom transaction rates via Radial Fast Track (no upfront software platform fee; usage-based per unit fulfilled) | No free trial; pay-as-you-go fast-track onboarding with zero upfront license contracts | Omnichannel commerce fulfillment and logistics provider with order management and warehouse operations. |
+| **[Quiet Platforms](https://quietplatforms.com/)** | ~$360M Acquisition Valuation (American Eagle Outfitters) | Custom enterprise contract rates (contract logistics and dedicated warehousing rates) | No free trial; zero public trial environments due to physical network and robotics infrastructure | Shared logistics network providing fulfillment and delivery services for retailers and brands. |
+| **[ShipHero](https://shiphero.com/)** | ~$225M Valuation / $50M – $80M ARR | $1,850/month (Brand Standard WMS, up to 5 users, unlimited orders/SKUs) | No free trial; 30-day money-back guarantee with live guided onboarding demo | Cloud-based warehouse management and fulfillment platform with inventory, picking, packing, and shipping. |
+| **[Deposco](https://www.deposco.com/)** | ~$50M – $100M Valuation / ~$15M – $20M ARR | ~$30,000 – $50,000/year base platform license (approx. $2,500 – $4,166/month equivalent, facility/volume-based) | No free trial; personalized interactive product demos upon consultation request | Cloud-based order management and warehouse execution platform for omnichannel fulfillment. |
 
 
 
