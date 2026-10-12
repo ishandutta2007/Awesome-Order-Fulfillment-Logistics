@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#070a12" />
+    </linearGradient>
+
+    <!-- Vibrant Accent Gradients -->
+    <linearGradient id="accentCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+
+    <linearGradient id="accentOrange" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#ef4444" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(30, 41, 59, 0.7)" />
+      <stop offset="100%" stop-color="rgba(15, 23, 42, 0.5)" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255, 255, 255, 0.04)" stroke-width="1" />
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 42px;
+      fill: #ffffff;
+      letter-spacing: -0.5px;
+    }
+    .subtitle-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 500;
+      font-size: 17px;
+      fill: #94a3b8;
+      letter-spacing: 0.2px;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      letter-spacing: 0.5px;
+    }
+    .flow-line {
+      stroke-dasharray: 8, 8;
+      animation: dash 15s linear infinite;
+    }
+    @keyframes dash {
+      to {
+        stroke-dashoffset: -160;
+      }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; transform: scale(1); }
+      50% { opacity: 0.6; transform: scale(1.08); }
+    }
+    @keyframes floatParticle {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+    }
+    .pulse-glow {
+      transform-origin: center;
+      animation: pulse 6s ease-in-out infinite;
+    }
+    .particle {
+      animation: floatParticle 4s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="1200" height="340" fill="url(#bgGradient)" rx="16" />
+  <rect width="1200" height="340" fill="url(#gridPattern)" rx="16" />
+
+  <!-- Dynamic Animated Background Flows & Nodes (stays strictly in background behind text) -->
+  <g opacity="0.6">
+    <!-- Ambient Glow Orbs -->
+    <circle cx="150" cy="80" r="120" fill="#6366f1" opacity="0.15" filter="url(#glow)" class="pulse-glow" />
+    <circle cx="1050" cy="260" r="140" fill="#38bdf8" opacity="0.12" filter="url(#glow)" class="pulse-glow" style="animation-delay: -3s;" />
+    <circle cx="950" cy="70" r="90" fill="#a855f7" opacity="0.1" filter="url(#glow)" />
+
+    <!-- Animated Logistics Circuit / Network Lines -->
+    <path d="M 50 170 Q 300 60, 600 170 T 1150 170" fill="none" stroke="url(#accentCyan)" stroke-width="2" opacity="0.25" class="flow-line" />
+    <path d="M 80 270 C 350 310, 850 310, 1120 270" fill="none" stroke="#6366f1" stroke-width="1.5" opacity="0.2" class="flow-line" style="animation-direction: reverse;" />
+    <path d="M 120 70 C 400 30, 800 30, 1080 70" fill="none" stroke="#38bdf8" stroke-width="1.5" opacity="0.2" class="flow-line" />
+
+    <!-- Network Waypoint Nodes -->
+    <circle cx="180" cy="135" r="4" fill="#38bdf8" opacity="0.8" class="particle" />
+    <circle cx="420" cy="225" r="3.5" fill="#a855f7" opacity="0.7" class="particle" style="animation-delay: -1.5s;" />
+    <circle cx="780" cy="115" r="4" fill="#38bdf8" opacity="0.8" class="particle" style="animation-delay: -2s;" />
+    <circle cx="1020" cy="205" r="3" fill="#6366f1" opacity="0.7" class="particle" style="animation-delay: -0.8s;" />
+  </g>
+
+  <!-- Foreground Content: Header Tag, Title, Subtitle, Feature Badges -->
+  <g transform="translate(600, 0)" text-anchor="middle">
+    <!-- Top Category Pill / Badge -->
+    <g transform="translate(0, 52)">
+      <rect x="-160" y="-16" width="320" height="32" rx="16" fill="rgba(99, 102, 241, 0.15)" stroke="rgba(99, 102, 241, 0.4)" stroke-width="1" />
+      <text y="5" fill="#818cf8" class="badge-text" text-anchor="middle">📦 E-COMMERCE &amp; SUPPLY CHAIN ECOSYSTEM</text>
+    </g>
+
+    <!-- Main Title (Clear Foreground, Pristine Legibility) -->
+    <text y="132" class="title-text">
+      Awesome Order Fulfillment &amp; Logistics
+    </text>
+
+    <!-- Subtitle (Clear Foreground) -->
+    <text y="176" class="subtitle-text">
+      Curated Hub of SaaS Platforms &amp; Open-Source Tools for WMS, OMS, Shipping &amp; Last-Mile Delivery
+    </text>
+
+    <!-- Interactive / Status Pills in Foreground -->
+    <g transform="translate(0, 242)">
+      <!-- Pill 1: Warehouse Management -->
+      <g transform="translate(-390, 0)">
+        <rect x="0" y="0" width="180" height="42" rx="10" fill="url(#cardGrad)" stroke="rgba(56, 189, 248, 0.3)" stroke-width="1" />
+        <circle cx="22" cy="21" r="5" fill="#38bdf8" filter="url(#subtleGlow)" />
+        <text x="36" y="26" fill="#e2e8f0" class="badge-text" text-anchor="start">🏭 Smart WMS</text>
+      </g>
+
+      <!-- Pill 2: Multi-Carrier Shipping -->
+      <g transform="translate(-195, 0)">
+        <rect x="0" y="0" width="185" height="42" rx="10" fill="url(#cardGrad)" stroke="rgba(99, 102, 241, 0.3)" stroke-width="1" />
+        <circle cx="22" cy="21" r="5" fill="#818cf8" filter="url(#subtleGlow)" />
+        <text x="36" y="26" fill="#e2e8f0" class="badge-text" text-anchor="start">🚚 Carrier APIs</text>
+      </g>
+
+      <!-- Pill 3: Distributed OMS -->
+      <g transform="translate(10, 0)">
+        <rect x="0" y="0" width="185" height="42" rx="10" fill="url(#cardGrad)" stroke="rgba(168, 85, 247, 0.3)" stroke-width="1" />
+        <circle cx="22" cy="21" r="5" fill="#c084fc" filter="url(#subtleGlow)" />
+        <text x="36" y="26" fill="#e2e8f0" class="badge-text" text-anchor="start">📊 Omnichannel OMS</text>
+      </g>
+
+      <!-- Pill 4: Route & Last-Mile -->
+      <g transform="translate(215, 0)">
+        <rect x="0" y="0" width="185" height="42" rx="10" fill="url(#cardGrad)" stroke="rgba(245, 158, 11, 0.3)" stroke-width="1" />
+        <circle cx="22" cy="21" r="5" fill="#fbbf24" filter="url(#subtleGlow)" />
+        <text x="36" y="26" fill="#e2e8f0" class="badge-text" text-anchor="start">📍 Last-Mile VRP</text>
+      </g>
+    </g>
+  </g>
+</svg>

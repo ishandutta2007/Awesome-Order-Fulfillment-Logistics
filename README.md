@@ -1,56 +1,64 @@
-# Awesome-Order-Fulfillment-Logistics
-# Awesome-Order-Fulfillment-Logistics
+# Awesome Order Fulfillment & Logistics 📦 🚚
 
-## Top Order Fulfillment & Logistics Tools Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Order Fulfillment &amp; Logistics Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Order-Fulfillment-Logistics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Order-Fulfillment-Logistics?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Order-Fulfillment-Logistics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Order-Fulfillment-Logistics?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Order-Fulfillment-Logistics/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-green.svg?style=flat-square" alt="License: CC0 1.0" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 🌐 Top Order Fulfillment & Logistics Tools Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+> **A curated directory of top-tier SaaS platforms and self-hosted open-source software for Warehouse Management (WMS), Order Management (OMS), Multi-Carrier Shipping Orchestration, and Last-Mile Delivery Optimization.**
 
-*Focused on Warehouse Management, Shipping Orchestration & Last-Mile Delivery*  
+📅 **Last updated: March 2026**
 
-**Last updated: March 2026**
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Order Fulfillment & Logistics Tools**. Modern commerce requires resilient supply chains: businesses must synchronize multi-warehouse inventory, automate pick-and-pack routing, optimize multi-carrier rate shopping, print automated shipping labels, monitor real-time tracking milestones, and solve complex Vehicle Routing Problems (VRP) for last-mile delivery.
 
+- 🏢 **Enterprise SaaS Leaders**: Scaled commercial solutions including Salesforce Fulfilment Cloud, Manhattan Associates, ShipStation, Flexport, ShipBob, Radial, and ShipHero.
+- 🔓 **Self-Hosted & Open-Source Solutions**: Production-ready WMS, headless OMS, and carrier-agnostic API engines empowering brands, 3PL operators, and engineering teams to build sovereign fulfillment stacks with no vendor lock-in.
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Order Fulfillment & Logistics Tools**. These tools help businesses manage inventory across warehouses, coordinate picking and packing, orchestrate multi-carrier shipping, track deliveries in real time, and optimize last-mile routes — connecting e-commerce storefronts to physical fulfillment operations.
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Frameworks for Custom Fulfillment Stacks](#️-frameworks-for-custom-fulfillment-stacks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
-**Examples** include Salesforce Fulfilment Cloud, ShipBob, Deliverr, Flexport, ShipStation, Radial, Quiet Platforms, ShipHero, Deposco, and Manhattan Associates (the category leaders).
+## 📊 Sector Overview & Market Dynamics
 
+The global order fulfillment and e-commerce logistics market is estimated at approximately **$580B – $710B** (within a broader global logistics and freight ecosystem exceeding **$4.1T – $4.3T**).
 
+The sector exhibits a **bifurcated market structure**:
+1. **Moderate Top-Tier Concentration**: The global enterprise parcel and freight infrastructure is anchored by mega-integrators and dominant commerce technology giants (e.g., Salesforce, Manhattan Associates, Auctane).
+2. **Structural Mid-Market & Regional Fragmentation**: The operational execution and warehouse software layers remain **structurally fragmented**. Thousands of regional 3PL providers, specialized fulfillment networks, and modern headless open-source stacks thrive alongside enterprise players, ensuring the market does not become a single-winner-take-all monopoly.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom fulfillment workflows, and transparent logistics data — ideal for e-commerce brands, 3PL providers, and developers building data-sovereign order fulfillment platforms.
+---
 
+## ☁️ SaaS/Hosted Platforms
 
+The table below compiles leading commercial platforms sorted by company valuation / scale in descending order:
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
-
-The global order fulfillment and e-commerce logistics market is estimated at approximately **$580B – $710B** (with the broader global logistics ecosystem surpassing **$4.1T – $4.3T**). The sector exhibits a bifurcated market structure: it is **moderately concentrated at the top tier** dominated by global integrated logistics conglomerates and massive tech giants, yet remains **structurally fragmented across regional, mid-market, and specialized 3PLs/SaaS providers** where no single winner takes all.
-
-## SaaS/Hosted Platforms
-
-| Platform | Company Valuation / Revenue | Starting Pricing Tier | Free Tier Limit / Free Trial Limit | Description |
+| Platform | Company Valuation / Scale | Starting Pricing Tier | Free Tier Limit / Free Trial Limit | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Salesforce Fulfilment Cloud](https://www.salesforce.com/)** | ~$280B+ Market Cap / $34.8B+ Annual Revenue | ~$0.15 – $0.50 per order (billed in pre-purchased blocks of 1,000 Order Summaries) or ~1% GMV | No self-service free trial; interactive guided demo tours and proof-of-concept sandboxes available via enterprise sales | Enterprise order fulfillment platform within Salesforce for orchestrating orders, inventory, and delivery across distributed fulfillment networks. |
+| **[Manhattan Associates](https://www.manh.com/)** | ~$13B – $16B Market Cap / $1.0B+ Annual Revenue | ~$150 – $500/user/month (annual enterprise contracts typically starting at $30,000+/year + implementation) | No free trial; live customized product demonstrations and guided feature tours available via sales | Enterprise supply chain commerce platform with warehouse management, order management, and transportation. |
 | **[Flexport](https://www.flexport.com/)** | ~$8B Valuation / ~$2B+ Revenue | $5,000/month minimum fulfillment/storage spend (custom freight & per-item fulfillment quotes) | No free software trial; promotional trial periods (e.g. Flexport+ membership trials) offered periodically without free shipping/postage | Digital freight forwarding and supply chain platform with customs, fulfillment, and logistics visibility. |
 | **[ShipStation](https://www.shipstation.com/)** | ~$6.6B Valuation (Parent: Auctane / Thoma Bravo) / $230M+ Revenue | $14.99/month (Starter plan, up to 50 shipments/month) | 30-day free trial (up to 30 days full platform access with no carrier discounts excluded; requires user carrier funds or trial label allocation) | Shipping and fulfillment software connecting e-commerce platforms to carriers with label printing, tracking, and automation. |
-| **[Manhattan Associates](https://www.manh.com/)** | ~$13B – $16B Market Cap / $1.0B+ Annual Revenue | ~$150 – $500/user/month (annual enterprise contracts typically starting at $30,000+/year + implementation) | No free trial; live customized product demonstrations and guided feature tours available via sales | Enterprise supply chain commerce platform with warehouse management, order management, and transportation. |
 | **[Deliverr](https://www.deliverr.com/)** | ~$2.1B Acquisition Valuation (Shopify / Flexport) | ~$3.99 – $4.15 per unit fulfillment (all-in pick, pack, and standard delivery for lightweight items < 1 lb) | No free trial; self-service SKU cost calculator available with no monthly software subscription fee | Fulfillment and logistics platform (acquired by Shopify, now integrated with Flexport) with fast shipping programs and inventory distribution. |
 | **[ShipBob](https://www.shipbob.com/)** | ~$1.1B – $4.0B Valuation / $97M+ ARR ($1B+ GMV network) | $275/month minimum fulfillment spend; storage from $5/bin/mo, $10/shelf/mo, $40/pallet/mo; picking includes first 4 items free | No free trial; free self-service onboarding available for brands shipping under 400 orders/month (operational fulfillment fees apply) | Third-party logistics (3PL) platform with distributed fulfillment centers, inventory management, and shipping automation for e-commerce. |
 | **[Radial](https://www.radial.com/)** | ~$820M Valuation (bpost group) / ~$1B Annual Revenue | Custom transaction rates via Radial Fast Track (no upfront software platform fee; usage-based per unit fulfilled) | No free trial; pay-as-you-go fast-track onboarding with zero upfront license contracts | Omnichannel commerce fulfillment and logistics provider with order management and warehouse operations. |
@@ -58,150 +66,109 @@ The global order fulfillment and e-commerce logistics market is estimated at app
 | **[ShipHero](https://shiphero.com/)** | ~$225M Valuation / $50M – $80M ARR | $1,850/month (Brand Standard WMS, up to 5 users, unlimited orders/SKUs) | No free trial; 30-day money-back guarantee with live guided onboarding demo | Cloud-based warehouse management and fulfillment platform with inventory, picking, packing, and shipping. |
 | **[Deposco](https://www.deposco.com/)** | ~$50M – $100M Valuation / ~$15M – $20M ARR | ~$30,000 – $50,000/year base platform license (approx. $2,500 – $4,166/month equivalent, facility/volume-based) | No free trial; personalized interactive product demos upon consultation request | Cloud-based order management and warehouse execution platform for omnichannel fulfillment. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Curated open-source projects for self-hosted logistics, warehouse execution, and carrier integration, sorted in descending order by GitHub stars:
 
+- **[Dolibarr](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) 📦  
+  Comprehensive open-source ERP/CRM suite featuring complete inventory management, stock dispatching, warehouse locations, and carrier workflows. Modular architecture allows enabling only fulfillment and shipping components. GPL-3.0 licensed.
 
+- **[GreaterWMS](https://github.com/GreaterWMS/GreaterWMS)** [![GitHub stars](https://img.shields.io/github/stars/GreaterWMS/GreaterWMS?style=social&color=white)](https://github.com/GreaterWMS/GreaterWMS/stargazers) 🏭  
+  Open-source warehouse management system designed for enterprise supply chain operations. Features intelligent multi-warehouse inventory allocation, barcode/PDA handheld scanning, automated batch picking, cycle counts, and carrier dispatch. Apache-2.0 licensed.
 
-- **[OpenBoxes](https://github.com/openboxes/openboxes)**  
+- **[Fleetbase](https://github.com/fleetbase/fleetbase)** [![GitHub stars](https://img.shields.io/github/stars/fleetbase/fleetbase?style=social&color=white)](https://github.com/fleetbase/fleetbase/stargazers) 🚚  
+  Modular, API-first logistics operating system and fleet execution platform. Provides routing engines, proof of delivery, driver dispatch management, real-time live GPS tracking, and microservices integration via webhooks. MIT licensed.
 
-  Open-source supply chain management system designed for healthcare and humanitarian logistics, with particular strength in inventory allocation, expiration tracking, and picking route optimization within a facility. EPL-1.0 licensed, 15+ years mature, 835+ stars . Self-hosted via Docker or manual install; used in disaster response and healthcare supply chains worldwide.
+- **[ModernWMS](https://github.com/fjykTec/ModernWMS)** [![GitHub stars](https://img.shields.io/github/stars/fjykTec/ModernWMS?style=social&color=white)](https://github.com/fjykTec/ModernWMS/stargazers) 🏢  
+  Cross-platform, streamlined warehouse management system built with .NET Core and Vue.js. Provides end-to-end management for receiving, putaway, picking, staging, cycle counting, and order dispatching for SMEs. Apache-2.0 licensed.
 
+- **[openship](https://github.com/openshiporg/openship)** [![GitHub stars](https://img.shields.io/github/stars/openshiporg/openship?style=social&color=white)](https://github.com/openshiporg/openship/stargazers) 🌐  
+  Open-source multi-channel order fulfillment and shipping orchestration system designed to automate cross-platform e-commerce orders, sync inventory across sales channels, and integrate carrier rate lookups. MIT licensed.
 
+- **[Craftplan](https://github.com/puemos/craftplan)** [![GitHub stars](https://img.shields.io/github/stars/puemos/craftplan?style=social&color=white)](https://github.com/puemos/craftplan/stargazers) 📋  
+  Open-source manufacturing ERP and fulfillment platform built with Elixir and Phoenix. Features production batch scheduling, lot traceability, raw material inventory allocation, and order fulfillment. Docker-ready and AGPL-3.0 licensed.
 
-- **[openoms](https://github.com/openoms-org/openoms)**  
+- **[OpenBoxes](https://github.com/openboxes/openboxes)** [![GitHub stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers) 🏥  
+  Battle-tested supply chain and inventory management system designed for healthcare, humanitarian, and enterprise operations. Strengths include lot-level expiration tracking, bin-level stock allocation, purchase orders, and picking route optimization. EPL-1.0 licensed.
 
-  Open-source Order Management System for e-commerce with 463 API endpoints and 27 SDK packages. Wraps 16+ sales channels including Allegro, Amazon SP, WooCommerce, and eBay through standalone Go SDKs (MIT licensed). ELv2 licensed core. Suitable for teams seeking a headless, API-first OMS foundation .
+- **[karrio](https://github.com/karrioapi/karrio)** [![GitHub stars](https://img.shields.io/github/stars/karrioapi/karrio?style=social&color=white)](https://github.com/karrioapi/karrio/stargazers) ⚡  
+  Universal open-source shipping API and multi-carrier shipping engine (formerly PurplShip). Unifies 100+ parcel carriers (FedEx, UPS, DHL, USPS, Royal Mail) under a single standard REST/GraphQL API for live rates, label printing, tracking, and address validation. Apache-2.0 licensed.
 
+- **[OpenWMS](https://github.com/openwms/org.openwms)** [![GitHub stars](https://img.shields.io/github/stars/openwms/org.openwms?style=social&color=white)](https://github.com/openwms/org.openwms/stargazers) 🏗️  
+  Microservice-based warehouse management platform written in Java and Spring Boot. Offers automated warehouse management, transport unit tracking, material flow control, and standardized warehouse topology modeling. Apache-2.0 licensed.
 
+- **[Aiku](https://github.com/Inikoo-Ltd/aiku)** [![GitHub stars](https://img.shields.io/github/stars/Inikoo-Ltd/aiku?style=social&color=white)](https://github.com/Inikoo-Ltd/aiku/stargazers) 📲  
+  Open-source white-label logistics ERP web application covering warehouse dispatch (bin locations, stock levels, picking paths, packing benches, handheld mobile app), multi-carrier APIs (DPD, GLS, APC, CTT), and 3PL fulfillment. AGPL-3.0 licensed.
 
-- **[Fleetbase](https://github.com/fleetbase/fleetbase)**  
+- **[openoms](https://github.com/openoms-org/openoms)** [![GitHub stars](https://img.shields.io/github/stars/openoms-org/openoms?style=social&color=white)](https://github.com/openoms-org/openoms/stargazers) 🔌  
+  Headless open-source Order Management System for e-commerce featuring 460+ API endpoints and 27 SDK packages. Connects 16+ marketplaces (Amazon SP, eBay, WooCommerce, Allegro) through modular Go SDKs. ELv2 licensed.
 
-  Modular, API-first logistics operating system integrating routing, driver management, order tracking, and analytics into a unified platform. Emphasizes extensibility through plugins and API hooks for enterprise integration without wholesale replacement. MIT licensed, 1,816+ stars .
+- **[Inventoros](https://github.com/Inventoros/Inventoros)** [![GitHub stars](https://img.shields.io/github/stars/Inventoros/Inventoros?style=social&color=white)](https://github.com/Inventoros/Inventoros/stargazers) 📊  
+  Modern PHP/Laravel inventory and warehouse management system with products, warehouse zones, batch/serial tracking, inbound orders, cycle counts, shipments, and full Sanctum REST API. MIT licensed.
 
+- **[Warehauser](https://github.com/warehauser/warehauser)** [![GitHub stars](https://img.shields.io/github/stars/warehauser/warehauser)](https://github.com/warehauser/warehauser/stargazers) 🐍  
+  Clean, modular warehouse management backend written in Python and Django. Designed for maintainability with extensible models for bins, product variants, inbound POs, and outbound pick tickets. Apache-2.0 licensed.
 
+- **[better-route](https://github.com/EijunnN/better-route)** [![GitHub stars](https://img.shields.io/github/stars/EijunnN/better-route?style=social&color=white)](https://github.com/EijunnN/better-route/stargazers) 🗺️  
+  Self-hosted route optimization and delivery management engine powered by VROOM and OSRM. Solves capacitated vehicle routing problems (CVRP) with real-time WebSocket vehicle updates and a Flutter driver mobile app. Next.js & PostgreSQL stack.
 
-- **[Aiku](https://github.com/Inikoo-Ltd/aiku)**  
+- **[Lynxo](https://github.com/TRADLY-PLATFORM/lynxo)** [![GitHub stars](https://img.shields.io/github/stars/TRADLY-PLATFORM/lynxo?style=social&color=white)](https://github.com/TRADLY-PLATFORM/lynxo/stargazers) 📱  
+  Open-source mobile and web starter kit for last-mile delivery, hyperlocal parcel commerce, and dispatch logistics. Features offline-first support, React Native/Vite architecture, and headless API connectors.
 
-  Open-source white-label ERP web application covering warehouse and dispatch (locations, stock levels, picking routes, packing benches, handheld app), carrier APIs (DPD, GLS, APC, CTT, Packeta, ITD), 3PL fulfillment, dropshipping, and multi-channel sync. Laravel/Vue/React Native stack, AGPLv3 licensed .
+- **[smart-logistics-vrp](https://github.com/rodrigope12/smart-logistics-vrp)** [![GitHub stars](https://img.shields.io/github/stars/rodrigope12/smart-logistics-vrp?style=social&color=white)](https://github.com/rodrigope12/smart-logistics-vrp/stargazers) 🤖  
+  Logistics operations platform solving Vehicle Routing Problems (VRP) with time windows and security waypoints using Google OR-Tools. Includes FastAPI backend and an offline-first React Native mobile client.
 
+- **[OpenB2B](https://github.com/deveasyclick/openb2b)** [![GitHub stars](https://img.shields.io/github/stars/deveasyclick/openb2b?style=social&color=white)](https://github.com/deveasyclick/openb2b/stargazers) 🤝  
+  Multi-tenant B2B wholesale ordering and fulfillment solution with SKU catalog management, PDF commercial invoice generation, customer inventory allotments, and role-based access control. Go/React/PostgreSQL stack.
 
-
-- **[Inventoros](https://github.com/Inventoros/Inventoros)**  
-
-  Open-source PHP-based inventory/WMS management with products, warehouses, locations, orders, shipments, batch/serial tracking, and a full REST API (Sanctum token auth). MySQL/PostgreSQL backed. Supports scheduled reports, cycle counts, and webhooks .
-
-
-
-- **[Dolibarr](https://github.com/Dolibarr/dolibarr)**  
-
-  Open-source ERP/CRM with modular stock, shipping, and order management. Enable only the modules needed for fulfillment operations. Supports multiple currencies, PDF generation for invoices/shipments/stocks, and REST APIs. GPL licensed, available as DoliWamp/DoliDeb installers .
-
-
-
-- **[Warehauser](https://github.com/warehauser/warehauser)**  
-
-  Open-source warehouse management backend written in Python/Django, designed to be simple to understand but powerful enough for complex business logic. Apache 2.0 licensed .
-
-
-
-- **[OpenB2B](https://github.com/deveasyclick/openb2b)**  
-
-  Open-source, multi-tenant ordering and invoicing platform for small wholesalers. Features order management, product management with SKU/inventory, PDF invoice generation, and role-based access. Go/React/PostgreSQL stack .
-
-
-
-- **[karrio](https://github.com/karrioapi/karrio)**  
-
-  Universal open-source shipping API. Integrate once and connect to multiple carrier APIs. Features live rates, label purchase, package tracking, and address validation. Apache 2.0 licensed OSS core with enterprise features available. Python-based, Docker-optimized .
-
-
-
-- **[shipzil](https://github.com/rodrigoparis/shipzil)**  
-
-  Free, MIT-licensed shipping gateway library for Python with adapters for ShipStation v1/v2, Shippo, and Easyship. One request model in, one rate model out. No vendor lock-in, no per-label fees. Designed for AI agents with machine-readable docs .
-
-
-
-- **[Lynxo](https://github.com/TRADLY-PLATFORM/lynxo)**  
-
-  Open-source starter kit for building last-mile delivery apps. React/TypeScript/Vite frontend for service bookings, retail delivery, and hyperlocal commerce. Integrates with Tradly headless commerce backend. Offline-first with mock data mode .
-
-
-
-- **[better-route](https://github.com/EijunnN/better-route)**  
-
-  Self-hosted route optimization and delivery management platform powered by VROOM + OSRM. No per-driver fees. Features VRP solving, real-time WebSocket updates, and Flutter mobile app. Next.js/PostgreSQL stack .
-
-
-
-- **[smart-logistics-vrp](https://github.com/rodrigope12/smart-logistics-vrp)**  
-
-  Full-stack logistics platform solving Vehicle Routing Problem (VRP) with security waypoints using Google OR-Tools. Offline-first React Native driver app. Python/FastAPI backend .
-
-
-
-- **[myWMS](https://www.iml.fraunhofer.de/)**  
-
-  Modular open-source warehouse management framework from Fraunhofer IML. Customizable WMS from standardized components with open interfaces for material flow computers. Suitable for logistics providers and manufacturing .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Open mSupply](https://msupply.foundation/projects)** — Open-source pharmaceutical supply chain management used in 30+ countries. React client + Rust server, PostgreSQL/SQLite .
-
-- **[Craftplan](https://github.com/puemos/craftplan)** — Open-source ERP for artisanal manufacturers with production planning, lot traceability, and order-to-batch allocation. Elixir/Phoenix, self-hostable via Docker .
-
-- **[Wuunder Shipping](https://github.com/workonthewinkel/wuunder-shipping)** — WooCommerce plugin connecting stores to multiple carriers through Wuunder's shipping API .
-
-- **Route Optimization Solvers** — Google OR-Tools, VROOM, GraphHopper for delivery sequencing and fleet routing .
-
-- **Inventory Tools** — OpenBoxes, Inventoros for stock tracking and warehouse operations.
-
-
-
-**Frameworks for building custom systems**: Combine **OpenBoxes** or **Inventoros** for warehouse management, **openoms** for order management, **karrio** or **shipzil** for multi-carrier shipping, **better-route** for last-mile optimization, and **Dolibarr** for ERP/accounting to build a complete self-hosted order fulfillment stack.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Order fulfillment and logistics tools must comply with data protection regulations (GDPR, CCPA), industry standards, and carrier-specific requirements.
-
-- Self-hosted open-source solutions require proper security hardening, backup strategies, and operational expertise.
-
-
+- **[myWMS](https://www.iml.fraunhofer.de/)** ⚙️  
+  Industrial modular open-source warehouse management framework developed by Fraunhofer IML. Provides standardized components and interfaces connecting directly to material flow computers (MFC) and automated automated storage and retrieval systems (ASRS).
 
 ---
 
+## 🛠️ Frameworks for Custom Fulfillment Stacks
 
+Architecting an independent, data-sovereign e-commerce logistics platform? Recommended modular combinations:
+* **Warehouse Management (WMS)**: [GreaterWMS](https://github.com/GreaterWMS/GreaterWMS), [ModernWMS](https://github.com/fjykTec/ModernWMS), or [OpenBoxes](https://github.com/openboxes/openboxes)
+* **Order Orchestration (OMS)**: [openoms](https://github.com/openoms-org/openoms) or [openship](https://github.com/openshiporg/openship)
+* **Multi-Carrier Shipping APIs**: [karrio](https://github.com/karrioapi/karrio)
+* **Last-Mile & Route Optimization**: [better-route](https://github.com/EijunnN/better-route) (VROOM + OSRM) or [Google OR-Tools](https://developers.google.com/optimization)
+* **ERP & Financial Settlement**: [Dolibarr](https://github.com/Dolibarr/dolibarr)
 
-**Made for e-commerce operations teams, 3PL providers, warehouse managers, and developers building order fulfillment platforms.**  
+---
 
-Let's make order fulfillment and logistics more open, data-sovereign, and operator-friendly.
+## 🤝 How to Contribute
+
+Contributions are warmly welcome! To propose updates or new tools:
+
+1. 🍴 **Fork the repository**.
+2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-tool-name`).
+3. 📝 **Add or update entries** in `README.md` keeping formatting, links, and factual metrics consistent.
+4. 🚀 **Submit a Pull Request** with a brief summary of what was added or updated.
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Order-Fulfillment-Logistics&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Order-Fulfillment-Logistics&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing **Awesome Order Fulfillment & Logistics**! If this repository has helped streamline your operations, save engineering hours, or guide your supply chain software evaluations, please consider supporting the project:
+
+- ⭐ **Star this repository** to help other engineers, operators, and founders discover it.
+- 🍴 **Fork and share** it with your logistics and engineering peers.
+- ☕ **Buy a coffee or sponsor ongoing maintenance**: Support via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your backing fuels ongoing research, verification, and community updates across the open-source supply chain ecosystem! 🙌
+
+---
+
+## ⚖️ Disclaimer
+
+- This repository is a community-curated directory intended solely for educational, analytical, and informational purposes. Mention of specific vendors or projects does not constitute an endorsement.
+- Enterprise order fulfillment, logistics integrations, and shipping APIs handle sensitive PII and financial transaction data. Ensure compliance with international data privacy laws (GDPR, CCPA), PCI-DSS standards, and carrier terms of service.
+- Self-hosted open-source software deployments require diligent infrastructure hardening, regular backups, encrypted secrets management, and automated vulnerability scanning.
