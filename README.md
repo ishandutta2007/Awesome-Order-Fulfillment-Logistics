@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Order-Fulfillment-Logistics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Order-Fulfillment-Logistics?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Order-Fulfillment-Logistics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Order-Fulfillment-Logistics?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Order-Fulfillment-Logistics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Order-Fulfillment-Logistics?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Order-Fulfillment-Logistics/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-green.svg?style=flat-square" alt="License: CC0 1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -70,57 +70,57 @@ The table below compiles leading commercial platforms sorted by company valuatio
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosted logistics, warehouse execution, and carrier integration, sorted in descending order by GitHub stars:
+Curated open-source projects for self-hosted logistics, warehouse execution, and carrier integration, sorted in descending order by GitHub_Stars:
 
-- **[Dolibarr](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) 📦  
+- **[Dolibarr](https://github.com/Dolibarr/dolibarr)** [![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) 📦  
   Comprehensive open-source ERP/CRM suite featuring complete inventory management, stock dispatching, warehouse locations, and carrier workflows. Modular architecture allows enabling only fulfillment and shipping components. GPL-3.0 licensed.
 
-- **[GreaterWMS](https://github.com/GreaterWMS/GreaterWMS)** [![GitHub stars](https://img.shields.io/github/stars/GreaterWMS/GreaterWMS?style=social&color=white)](https://github.com/GreaterWMS/GreaterWMS/stargazers) 🏭  
+- **[GreaterWMS](https://github.com/GreaterWMS/GreaterWMS)** [![GitHub_Stars](https://img.shields.io/github/stars/GreaterWMS/GreaterWMS?style=social&color=white)](https://github.com/GreaterWMS/GreaterWMS/stargazers) 🏭  
   Open-source warehouse management system designed for enterprise supply chain operations. Features intelligent multi-warehouse inventory allocation, barcode/PDA handheld scanning, automated batch picking, cycle counts, and carrier dispatch. Apache-2.0 licensed.
 
-- **[Fleetbase](https://github.com/fleetbase/fleetbase)** [![GitHub stars](https://img.shields.io/github/stars/fleetbase/fleetbase?style=social&color=white)](https://github.com/fleetbase/fleetbase/stargazers) 🚚  
+- **[Fleetbase](https://github.com/fleetbase/fleetbase)** [![GitHub_Stars](https://img.shields.io/github/stars/fleetbase/fleetbase?style=social&color=white)](https://github.com/fleetbase/fleetbase/stargazers) 🚚  
   Modular, API-first logistics operating system and fleet execution platform. Provides routing engines, proof of delivery, driver dispatch management, real-time live GPS tracking, and microservices integration via webhooks. MIT licensed.
 
-- **[ModernWMS](https://github.com/fjykTec/ModernWMS)** [![GitHub stars](https://img.shields.io/github/stars/fjykTec/ModernWMS?style=social&color=white)](https://github.com/fjykTec/ModernWMS/stargazers) 🏢  
+- **[ModernWMS](https://github.com/fjykTec/ModernWMS)** [![GitHub_Stars](https://img.shields.io/github/stars/fjykTec/ModernWMS?style=social&color=white)](https://github.com/fjykTec/ModernWMS/stargazers) 🏢  
   Cross-platform, streamlined warehouse management system built with .NET Core and Vue.js. Provides end-to-end management for receiving, putaway, picking, staging, cycle counting, and order dispatching for SMEs. Apache-2.0 licensed.
 
-- **[openship](https://github.com/openshiporg/openship)** [![GitHub stars](https://img.shields.io/github/stars/openshiporg/openship?style=social&color=white)](https://github.com/openshiporg/openship/stargazers) 🌐  
+- **[openship](https://github.com/openshiporg/openship)** [![GitHub_Stars](https://img.shields.io/github/stars/openshiporg/openship?style=social&color=white)](https://github.com/openshiporg/openship/stargazers) 🌐  
   Open-source multi-channel order fulfillment and shipping orchestration system designed to automate cross-platform e-commerce orders, sync inventory across sales channels, and integrate carrier rate lookups. MIT licensed.
 
-- **[Craftplan](https://github.com/puemos/craftplan)** [![GitHub stars](https://img.shields.io/github/stars/puemos/craftplan?style=social&color=white)](https://github.com/puemos/craftplan/stargazers) 📋  
+- **[Craftplan](https://github.com/puemos/craftplan)** [![GitHub_Stars](https://img.shields.io/github/stars/puemos/craftplan?style=social&color=white)](https://github.com/puemos/craftplan/stargazers) 📋  
   Open-source manufacturing ERP and fulfillment platform built with Elixir and Phoenix. Features production batch scheduling, lot traceability, raw material inventory allocation, and order fulfillment. Docker-ready and AGPL-3.0 licensed.
 
-- **[OpenBoxes](https://github.com/openboxes/openboxes)** [![GitHub stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers) 🏥  
+- **[OpenBoxes](https://github.com/openboxes/openboxes)** [![GitHub_Stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers) 🏥  
   Battle-tested supply chain and inventory management system designed for healthcare, humanitarian, and enterprise operations. Strengths include lot-level expiration tracking, bin-level stock allocation, purchase orders, and picking route optimization. EPL-1.0 licensed.
 
-- **[karrio](https://github.com/karrioapi/karrio)** [![GitHub stars](https://img.shields.io/github/stars/karrioapi/karrio?style=social&color=white)](https://github.com/karrioapi/karrio/stargazers) ⚡  
+- **[karrio](https://github.com/karrioapi/karrio)** [![GitHub_Stars](https://img.shields.io/github/stars/karrioapi/karrio?style=social&color=white)](https://github.com/karrioapi/karrio/stargazers) ⚡  
   Universal open-source shipping API and multi-carrier shipping engine (formerly PurplShip). Unifies 100+ parcel carriers (FedEx, UPS, DHL, USPS, Royal Mail) under a single standard REST/GraphQL API for live rates, label printing, tracking, and address validation. Apache-2.0 licensed.
 
-- **[OpenWMS](https://github.com/openwms/org.openwms)** [![GitHub stars](https://img.shields.io/github/stars/openwms/org.openwms?style=social&color=white)](https://github.com/openwms/org.openwms/stargazers) 🏗️  
+- **[OpenWMS](https://github.com/openwms/org.openwms)** [![GitHub_Stars](https://img.shields.io/github/stars/openwms/org.openwms?style=social&color=white)](https://github.com/openwms/org.openwms/stargazers) 🏗️  
   Microservice-based warehouse management platform written in Java and Spring Boot. Offers automated warehouse management, transport unit tracking, material flow control, and standardized warehouse topology modeling. Apache-2.0 licensed.
 
-- **[Aiku](https://github.com/Inikoo-Ltd/aiku)** [![GitHub stars](https://img.shields.io/github/stars/Inikoo-Ltd/aiku?style=social&color=white)](https://github.com/Inikoo-Ltd/aiku/stargazers) 📲  
+- **[Aiku](https://github.com/Inikoo-Ltd/aiku)** [![GitHub_Stars](https://img.shields.io/github/stars/Inikoo-Ltd/aiku?style=social&color=white)](https://github.com/Inikoo-Ltd/aiku/stargazers) 📲  
   Open-source white-label logistics ERP web application covering warehouse dispatch (bin locations, stock levels, picking paths, packing benches, handheld mobile app), multi-carrier APIs (DPD, GLS, APC, CTT), and 3PL fulfillment. AGPL-3.0 licensed.
 
-- **[openoms](https://github.com/openoms-org/openoms)** [![GitHub stars](https://img.shields.io/github/stars/openoms-org/openoms?style=social&color=white)](https://github.com/openoms-org/openoms/stargazers) 🔌  
+- **[openoms](https://github.com/openoms-org/openoms)** [![GitHub_Stars](https://img.shields.io/github/stars/openoms-org/openoms?style=social&color=white)](https://github.com/openoms-org/openoms/stargazers) 🔌  
   Headless open-source Order Management System for e-commerce featuring 460+ API endpoints and 27 SDK packages. Connects 16+ marketplaces (Amazon SP, eBay, WooCommerce, Allegro) through modular Go SDKs. ELv2 licensed.
 
-- **[Inventoros](https://github.com/Inventoros/Inventoros)** [![GitHub stars](https://img.shields.io/github/stars/Inventoros/Inventoros?style=social&color=white)](https://github.com/Inventoros/Inventoros/stargazers) 📊  
+- **[Inventoros](https://github.com/Inventoros/Inventoros)** [![GitHub_Stars](https://img.shields.io/github/stars/Inventoros/Inventoros?style=social&color=white)](https://github.com/Inventoros/Inventoros/stargazers) 📊  
   Modern PHP/Laravel inventory and warehouse management system with products, warehouse zones, batch/serial tracking, inbound orders, cycle counts, shipments, and full Sanctum REST API. MIT licensed.
 
-- **[Warehauser](https://github.com/warehauser/warehauser)** [![GitHub stars](https://img.shields.io/github/stars/warehauser/warehauser)](https://github.com/warehauser/warehauser/stargazers) 🐍  
+- **[Warehauser](https://github.com/warehauser/warehauser)** [![GitHub_Stars](https://img.shields.io/github/stars/warehauser/warehauser)](https://github.com/warehauser/warehauser/stargazers) 🐍  
   Clean, modular warehouse management backend written in Python and Django. Designed for maintainability with extensible models for bins, product variants, inbound POs, and outbound pick tickets. Apache-2.0 licensed.
 
-- **[better-route](https://github.com/EijunnN/better-route)** [![GitHub stars](https://img.shields.io/github/stars/EijunnN/better-route?style=social&color=white)](https://github.com/EijunnN/better-route/stargazers) 🗺️  
+- **[better-route](https://github.com/EijunnN/better-route)** [![GitHub_Stars](https://img.shields.io/github/stars/EijunnN/better-route?style=social&color=white)](https://github.com/EijunnN/better-route/stargazers) 🗺️  
   Self-hosted route optimization and delivery management engine powered by VROOM and OSRM. Solves capacitated vehicle routing problems (CVRP) with real-time WebSocket vehicle updates and a Flutter driver mobile app. Next.js & PostgreSQL stack.
 
-- **[Lynxo](https://github.com/TRADLY-PLATFORM/lynxo)** [![GitHub stars](https://img.shields.io/github/stars/TRADLY-PLATFORM/lynxo?style=social&color=white)](https://github.com/TRADLY-PLATFORM/lynxo/stargazers) 📱  
+- **[Lynxo](https://github.com/TRADLY-PLATFORM/lynxo)** [![GitHub_Stars](https://img.shields.io/github/stars/TRADLY-PLATFORM/lynxo?style=social&color=white)](https://github.com/TRADLY-PLATFORM/lynxo/stargazers) 📱  
   Open-source mobile and web starter kit for last-mile delivery, hyperlocal parcel commerce, and dispatch logistics. Features offline-first support, React Native/Vite architecture, and headless API connectors.
 
-- **[smart-logistics-vrp](https://github.com/rodrigope12/smart-logistics-vrp)** [![GitHub stars](https://img.shields.io/github/stars/rodrigope12/smart-logistics-vrp?style=social&color=white)](https://github.com/rodrigope12/smart-logistics-vrp/stargazers) 🤖  
+- **[smart-logistics-vrp](https://github.com/rodrigope12/smart-logistics-vrp)** [![GitHub_Stars](https://img.shields.io/github/stars/rodrigope12/smart-logistics-vrp?style=social&color=white)](https://github.com/rodrigope12/smart-logistics-vrp/stargazers) 🤖  
   Logistics operations platform solving Vehicle Routing Problems (VRP) with time windows and security waypoints using Google OR-Tools. Includes FastAPI backend and an offline-first React Native mobile client.
 
-- **[OpenB2B](https://github.com/deveasyclick/openb2b)** [![GitHub stars](https://img.shields.io/github/stars/deveasyclick/openb2b?style=social&color=white)](https://github.com/deveasyclick/openb2b/stargazers) 🤝  
+- **[OpenB2B](https://github.com/deveasyclick/openb2b)** [![GitHub_Stars](https://img.shields.io/github/stars/deveasyclick/openb2b?style=social&color=white)](https://github.com/deveasyclick/openb2b/stargazers) 🤝  
   Multi-tenant B2B wholesale ordering and fulfillment solution with SKU catalog management, PDF commercial invoice generation, customer inventory allotments, and role-based access control. Go/React/PostgreSQL stack.
 
 - **[myWMS](https://www.iml.fraunhofer.de/)** ⚙️  
